@@ -1,0 +1,12 @@
+com.wang.avi
+attr indicatorColor
+attr indicatorName
+attr maxHeight
+attr maxWidth
+attr minHeight
+attr minWidth
+string app_name
+style AVLoadingIndicatorView
+style AVLoadingIndicatorView_Large
+style AVLoadingIndicatorView_Small
+styleable AVLoadingIndicatorView indicatorColor indicatorName maxHeight maxWidth minHeight minWidth
